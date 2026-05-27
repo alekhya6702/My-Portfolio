@@ -30,7 +30,7 @@ function About() {
       </div>
 
       {/* About Card */}
-      <div className="bg-white rounded-3xl shadow-2xl p-12 max-w-5xl mx-auto hover:shadow-xl">
+      <div className="bg-white rounded-3xl shadow-2xl p-12 max-w-5xl mx-auto hover:-translate-y-2 transition duration-300">
 
        
 
