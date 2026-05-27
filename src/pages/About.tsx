@@ -14,7 +14,7 @@ function About() {
 
         {/* Name */}
         <h1 className="text-5xl font-extrabold text-slate-900 mt-6">
-          A. Alekhya 
+          Alekhya Akireddy
         </h1>
 
         {/* Role */}
